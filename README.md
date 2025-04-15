@@ -2,7 +2,7 @@
 
 ![Welcome Animation](https://github.com/yourusername/yourusername/raw/main/assets/welcome.gif)
 
-### Full-Stack Developer | Blockchain & Web3 Specialist | Software Engineer
+### Full-Stack Developer | Blockchain & Web3 Enthusiast | Software Engineer
 
 ---
 
@@ -14,9 +14,9 @@
 
 Most of my professional work is in **private repositories** due to the sensitive nature of blockchain contracts, proprietary projects, and security-focused applications. However, you can explore some of my live projects below that showcase my skill set:
 
+- **[Symlix](https://symlix.com)** - A marketplace powered by blockchain technology for secure peer-to-peer trading.
 - **[Solhub.io](https://solhub.io)** - A decentralized hub for Solana-based tools and resources.
-- **[BullPerks](https://bullperks.com)** - A blockchain-based decentralized investment platform.
-- **[Catly](https://www.catly.io)** - A DeFi platform for automated token exchanges.
+- **[TheProteinCompany](https://theproteincompany.pk)** - E-commerce site for fitness enthusiasts.
 
 Feel free to reach out if you’re interested in learning more about my private projects or to discuss a custom project!
 
@@ -50,10 +50,9 @@ Feel free to reach out if you’re interested in learning more about my private 
 
 Here are some live projects that demonstrate my skills in blockchain and full-stack development:
 
-- **[Solhub.io](https://solhub.io)** - A decentralized hub for Solana-based tools and resources.
-- **[BullPerks](https://bullperks.com)** - A blockchain-based decentralized investment platform.
-- **[Catly](https://www.catly.io)** - A DeFi platform for automated token exchanges.
 - **[Symlix](https://symlix.com)** - A marketplace powered by blockchain technology for secure peer-to-peer trading.
+- **[Solhub.io](https://solhub.io)** - A decentralized creation hub for Solana-based tools and resources.
+- **[TheProteinCompany](https://theproteincompany.pk)** - E-commerce site for fitness enthusiasts.
 
 ---
 
