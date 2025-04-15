@@ -56,12 +56,6 @@ Here are some live projects that demonstrate my skills in blockchain and full-st
 
 ---
 
-### ✍️ Blogs & Articles
-
-Check out some of my latest articles and insights on [Medium](https://rmatricks.medium.com/about)
-
-
----
 
 ### 🔗 Let's Connect
 
